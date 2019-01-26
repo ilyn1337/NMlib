@@ -17,17 +17,12 @@ VB.NET için: NMlib64VB.NeutronMemoryLibrary.IslemEkle("İŞLEM İSMİ")
 **Opcode kullanımı**
 
 Herhangi bir kontrolün içine yapıştırın:
-
 C# için: NeutronMemoryLibrary.OpcodeKullan(0xOPCODE, "DEĞİŞTİRİLECEK BİT DEĞERLERİ");
-
 VB.NET için: NMlib64VB.NeutronMemoryLibrary.OpcodeKullan(&HOPCODE, "DEĞİŞTİRİLECEK BİT DEĞERLERİ") '&H'yi silmeyin.
-
 
 **Pointer Kullanımı**
 
 Herhangi bir kontrolün içine yapıştırın:
-
 C# için: NeutronMemoryLibrary.PointerKullan(0xPOINTER ADRESİ, 0xOFFSET1, 0xOFFSET2, 0xOFFSET3, DEĞİŞTİRİLECEK DEĞER);
-
 VB.NET için: NMlib64VB.NeutronMemoryLibrary.PointerKullan(&HPOINTER ADRESİ, &HOFFSET1, &HOFFSET2, &HOFFSET13, DEĞİŞTİRİLECEK DEĞER)
 
