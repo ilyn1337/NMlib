@@ -1,0 +1,6 @@
+C:\Users\PC\source\repos\NMlib\NMlib\bin\Debug\NMlib.dll
+C:\Users\PC\source\repos\NMlib\NMlib\bin\Debug\NMlib.pdb
+C:\Users\PC\source\repos\NMlib\NMlib\obj\Debug\NMlib.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\NMlib\NMlib\obj\Debug\NMlib.dll
+C:\Users\PC\source\repos\NMlib\NMlib\obj\Debug\NMlib.pdb
+C:\Users\PC\source\repos\NMlib\NMlib\obj\Debug\NMlib.csprojAssemblyReference.cache

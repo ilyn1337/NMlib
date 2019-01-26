@@ -1,0 +1,12 @@
+C:\Users\PC\source\repos\NMlib\TestTrainer64\bin\Debug\TestTrainer64.exe
+C:\Users\PC\source\repos\NMlib\TestTrainer64\bin\Debug\TestTrainer64.pdb
+C:\Users\PC\source\repos\NMlib\TestTrainer64\obj\Debug\TestTrainer64.Form1.resources
+C:\Users\PC\source\repos\NMlib\TestTrainer64\obj\Debug\TestTrainer64.Properties.Resources.resources
+C:\Users\PC\source\repos\NMlib\TestTrainer64\obj\Debug\TestTrainer64.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\NMlib\TestTrainer64\obj\Debug\TestTrainer64.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\NMlib\TestTrainer64\obj\Debug\TestTrainer64.exe
+C:\Users\PC\source\repos\NMlib\TestTrainer64\obj\Debug\TestTrainer64.pdb
+C:\Users\PC\source\repos\NMlib\TestTrainer64\obj\Debug\TestTrainer64.csproj.CopyComplete
+C:\Users\PC\source\repos\NMlib\TestTrainer64\bin\Debug\NMlib.dll
+C:\Users\PC\source\repos\NMlib\TestTrainer64\bin\Debug\NMlib.pdb
+C:\Users\PC\source\repos\NMlib\TestTrainer64\obj\Debug\TestTrainer64.csprojAssemblyReference.cache

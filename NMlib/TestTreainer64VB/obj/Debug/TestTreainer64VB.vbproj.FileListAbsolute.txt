@@ -1,0 +1,15 @@
+C:\Users\PC\source\repos\NMlib\TestTreainer64VB\bin\Debug\TestTreainer64VB.exe
+C:\Users\PC\source\repos\NMlib\TestTreainer64VB\bin\Debug\TestTreainer64VB.pdb
+C:\Users\PC\source\repos\NMlib\TestTreainer64VB\bin\Debug\TestTreainer64VB.xml
+C:\Users\PC\source\repos\NMlib\TestTreainer64VB\obj\Debug\TestTreainer64VB.vbprojAssemblyReference.cache
+C:\Users\PC\source\repos\NMlib\TestTreainer64VB\obj\Debug\TestTreainer64VB.Form1.resources
+C:\Users\PC\source\repos\NMlib\TestTreainer64VB\obj\Debug\TestTreainer64VB.Resources.resources
+C:\Users\PC\source\repos\NMlib\TestTreainer64VB\obj\Debug\TestTreainer64VB.vbproj.GenerateResource.cache
+C:\Users\PC\source\repos\NMlib\TestTreainer64VB\obj\Debug\TestTreainer64VB.vbproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\NMlib\TestTreainer64VB\obj\Debug\TestTreainer64VB.exe
+C:\Users\PC\source\repos\NMlib\TestTreainer64VB\obj\Debug\TestTreainer64VB.xml
+C:\Users\PC\source\repos\NMlib\TestTreainer64VB\obj\Debug\TestTreainer64VB.pdb
+C:\Users\PC\source\repos\NMlib\TestTreainer64VB\obj\Debug\TestTreainer64VB.vbproj.CopyComplete
+C:\Users\PC\source\repos\NMlib\TestTreainer64VB\bin\Debug\NMlibVB.pdb
+C:\Users\PC\source\repos\NMlib\TestTreainer64VB\bin\Debug\NMlibVB.xml
+C:\Users\PC\source\repos\NMlib\TestTreainer64VB\bin\Debug\NMlibVB.dll

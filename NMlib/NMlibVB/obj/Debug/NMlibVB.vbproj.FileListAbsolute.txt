@@ -1,0 +1,10 @@
+C:\Users\PC\source\repos\NMlib\NMlibVB\bin\Debug\NMlibVB.dll
+C:\Users\PC\source\repos\NMlib\NMlibVB\bin\Debug\NMlibVB.pdb
+C:\Users\PC\source\repos\NMlib\NMlibVB\bin\Debug\NMlibVB.xml
+C:\Users\PC\source\repos\NMlib\NMlibVB\obj\Debug\NMlibVB.vbprojAssemblyReference.cache
+C:\Users\PC\source\repos\NMlib\NMlibVB\obj\Debug\NMlibVB.Resources.resources
+C:\Users\PC\source\repos\NMlib\NMlibVB\obj\Debug\NMlibVB.vbproj.GenerateResource.cache
+C:\Users\PC\source\repos\NMlib\NMlibVB\obj\Debug\NMlibVB.vbproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\NMlib\NMlibVB\obj\Debug\NMlibVB.dll
+C:\Users\PC\source\repos\NMlib\NMlibVB\obj\Debug\NMlibVB.xml
+C:\Users\PC\source\repos\NMlib\NMlibVB\obj\Debug\NMlibVB.pdb
